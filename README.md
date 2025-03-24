@@ -2,8 +2,6 @@
 
 Built with the Next.js 14 App Router, Postgres, TypeScript, Tailwind & Kinde Auth
 
-![Project Image](https://raw.githubusercontent.com/Rohit-2012/mobicase-ecommerce-app/main/public/thumbnail.png)
-
 ## Features
 
 - 🛠️ Complete shop built from scratch in Next.js 14
@@ -18,12 +16,6 @@ Built with the Next.js 14 App Router, Postgres, TypeScript, Tailwind & Kinde Aut
 - ⌨️ 100% written in TypeScript
 
 ## Getting started
-
-To get started with this project, run
-
-```bash
-  git clone https://github.com/Rohit-2012/mobicase-ecommerce-app.git
-```
 
 and create .env file and set up the following environt variables
 
