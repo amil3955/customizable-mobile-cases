@@ -17,7 +17,7 @@ Built with the Next.js 14 App Router, Postgres, TypeScript, Tailwind & Kinde Aut
 
 ## Getting started
 
-and create .env file and set up the following environt variables
+and create .env file and set up the following environment variables
 
 - KINDE_CLIENT_ID= Your client ID
 - KINDE_CLIENT_SECRET= Your Client Secret
